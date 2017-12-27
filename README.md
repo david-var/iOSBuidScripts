@@ -1,4 +1,4 @@
-# iOS Automated Buid Scripts
+# iOS Automated Build Scripts
 =================
 
 
